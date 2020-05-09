@@ -1,0 +1,15 @@
+name="TejaswiniRao"
+print(name.upper()!)
+OUTPUT:TEJASWINIRAO
+
+name="TEJASWINrao"
+print(name.lower())
+OUTPUT:tejaswinirao0
+
+name="TEJAswinirAO"
+print(name.upper())
+print(name.lower())
+OUTPUT:TEJASWINIRAO
+        tejaswinirao
+        
+        
